@@ -1,5 +1,8 @@
 /bin/
-/.settings/org.eclipse.jdt.core.prefs
 /.classpath
 /.project
 /MAILME_BASE.DBF
+/.metadata/
+/.recommenders/
+.gitignore
+.settings/
