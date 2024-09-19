@@ -15,8 +15,8 @@
 
 ## 주요 기능
 <div>
-<img src="https://github.com/user-attachments/assets/6cb7f8a4-3811-407a-ae3a-894a84859870"  height="500"></img> 
-<img src="https://github.com/user-attachments/assets/1b693c6c-e06b-4324-b178-6109de9cd1e5"  height="500"></img>
+  <img src="https://github.com/user-attachments/assets/6cb7f8a4-3811-407a-ae3a-894a84859870"  height="500"></img> 
+  <img src="https://github.com/user-attachments/assets/1b693c6c-e06b-4324-b178-6109de9cd1e5"  height="500"></img>
 </div>
 
 1. 회원가입을 하고 로그인을 할 수 있고 회원 정보를 수정할 수 있습니다. 
